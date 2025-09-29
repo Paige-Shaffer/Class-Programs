@@ -1,0 +1,2774 @@
+{
+  "Charlotte, North Carolina, Mecklenburg": [
+    35.2272086,
+    -80.8430827
+  ],
+  "Atlantic City, New Jersey, Atlantic": [
+    39.3642852,
+    -74.4229351
+  ],
+  "Houston, Texas, Harris": [
+    29.7589382,
+    -95.3676974
+  ],
+  "Lake Placid, Florida, Highlands": [
+    27.2930999,
+    -81.3628502
+  ],
+  "Anchorage, Alaska, Anchorage": [
+    61.2216643,
+    -149.8904316
+  ],
+  "Tucson, Arizona, Yakima": [
+    32.2759219355466,
+    -110.98448024484709
+  ],
+  "Old Saybrook, Connecticut, Middlesex": [
+    41.32291208926747,
+    -72.37826783732326
+  ],
+  "Elizabeth, New Jersey, Union": [
+    40.6639916,
+    -74.2107006
+  ],
+  "Bronx, New York, Bronx": [
+    40.8466508,
+    -73.8785937
+  ],
+  "Little Rock, Arkansas, Pulaski": [
+    34.7465071,
+    -92.2896267
+  ],
+  "Queens, New York, Queens": [
+    40.7135078,
+    -73.8283132
+  ],
+  "Las Vegas, New Mexico, San Miguel": [
+    35.5939325,
+    -105.223896
+  ],
+  "Miami, Florida, Miami-Dade": [
+    25.7741728,
+    -80.19362
+  ],
+  "Lima, California, Los Angeles": [
+    -12.2055148,
+    -76.96986534881438
+  ],
+  "Nashville, Tennessee, Davidson": [
+    36.1622767,
+    -86.7742984
+  ],
+  "Philadelphia, Pennsylvania, Philadelphia": [
+    39.9527237,
+    -75.1635262
+  ],
+  "Laredo, Texas, Webb": [
+    27.5075005,
+    -99.5069922
+  ],
+  "Baltimore, Maryland, Baltimore": [
+    39.2877017,
+    -76.6064893
+  ],
+  "San Diego, California, San Diego": [
+    32.7174202,
+    -117.162772
+  ],
+  "Oakland, Florida, Broward": [
+    26.1723065,
+    -80.1319893
+  ],
+  "Oceanside, California, San Diego": [
+    33.1958696,
+    -117.379483
+  ],
+  "Manhattan, New York, York": [
+    40.7896239,
+    -73.9598939
+  ],
+  "Santa Clarita, California, Los Angeles": [
+    34.4127963,
+    -118.5538088
+  ],
+  "Dallas, Texas, Dallas": [
+    32.7762719,
+    -96.7968559
+  ],
+  "West Palm Beach, Florida, Palm Beach": [
+    26.715364,
+    -80.0532942
+  ],
+  "Carson City, California, Los Angeles": [
+    33.8322647,
+    -118.262978
+  ],
+  "Lake City, Florida, Columbia": [
+    30.1894252,
+    -82.6394803
+  ],
+  "Los Angeles, California, Los Angeles": [
+    34.0536909,
+    -118.242766
+  ],
+  "Phoenix, Arizona, Maricopa": [
+    33.4484367,
+    -112.074141
+  ],
+  "Tampa, Florida, Hillsborough": [
+    27.9477595,
+    -82.458444
+  ],
+  "Memphis, Tennessee, Shelby": [
+    35.1460249,
+    -90.0517638
+  ],
+  "Chicago, Illinois, McCook": [
+    41.989437249999995,
+    -87.7789945
+  ],
+  "Bossier City, Louisiana, Bossier": [
+    32.515887,
+    -93.7336536
+  ],
+  "Covington, Georgia, Newton": [
+    33.5966005,
+    -83.8598742
+  ],
+  "Atlanta, Georgia, Clayton": [
+    33.6392478,
+    -84.36068232685477
+  ],
+  "Astoria, Oregon, Clatsop": [
+    46.1882007,
+    -123.8319802
+  ],
+  "York, New York, York": [
+    42.8712284,
+    -77.8852981
+  ],
+  "Gila Bend, Arizona, Maricopa": [
+    32.9478267,
+    -112.716823
+  ],
+  "Fort Worth, Texas, Tarrant": [
+    32.753177,
+    -97.3327459
+  ],
+  "Ashland, North Carolina, Brunswick": [
+    34.26475384577341,
+    -78.07249349344286
+  ],
+  "Nogales, Arizona, Santa Cruz": [
+    31.3402134,
+    -110.936081
+  ],
+  "Wilmington, Delaware, New Castle": [
+    39.7459468,
+    -75.546589
+  ],
+  "Austin, Texas, Travis": [
+    30.2711286,
+    -97.7436995
+  ],
+  "Antioch, Tennessee, Davidson": [
+    36.0600602,
+    -86.6722192
+  ],
+  "Newark, New Jersey, Essex": [
+    40.735657,
+    -74.1723667
+  ],
+  "Seattle, Washington, Rockingham": [
+    47.6554614,
+    -122.3803865
+  ],
+  "Cleveland, Ohio, Cuyahoga": [
+    41.4996574,
+    -81.6936772
+  ],
+  "Baton Rouge, Louisiana, East Baton Rouge": [
+    30.5185673,
+    -91.1315826
+  ],
+  "Atlanta, Georgia, Fulton": [
+    33.7489924,
+    -84.3902644
+  ],
+  "Edison, New Jersey, Middlesex": [
+    40.518157,
+    -74.4113926
+  ],
+  "Baytown, Texas, Harris": [
+    29.7355047,
+    -94.9774274
+  ],
+  "Riverside, California, Riverside": [
+    33.9824949,
+    -117.374238
+  ],
+  "Detroit, Michigan, Wayne": [
+    42.3315509,
+    -83.0466403
+  ],
+  "Brownsville, Texas, Cameron": [
+    25.9024289,
+    -97.4981698
+  ],
+  "Long Beach, California, Los Angeles": [
+    33.7690164,
+    -118.191604
+  ],
+  "Boston, Massachusetts, Suffolk": [
+    42.3554334,
+    -71.060511
+  ],
+  "Palatka, Florida, Putnam": [
+    29.6487882,
+    -81.6372111
+  ],
+  "Huntington, California, Los Angeles": [
+    33.9805731,
+    -118.2252073
+  ],
+  "Roseburg, Oregon, Douglas": [
+    43.216505,
+    -123.3417381
+  ],
+  "Las Vegas, Nevada, Clark": [
+    36.2533896,
+    -115.2794366262601
+  ],
+  "Calexico, California, Imperial": [
+    32.6668134,
+    -115.4963754
+  ],
+  "Davis, Oklahoma, Murray": [
+    34.5034796,
+    -97.1188924
+  ],
+  "Jacksonville, Florida, Duval": [
+    30.3321838,
+    -81.655651
+  ],
+  "Ormond Beach, Florida, Volusia": [
+    29.2854132,
+    -81.0557921
+  ],
+  "New Brunswick, New Jersey, Middlesex": [
+    40.4951365,
+    -74.4439254
+  ],
+  "Norfolk, Virginia, Norfolk": [
+    36.8434901,
+    -76.2761014
+  ],
+  "Pensacola, Florida, Escambia": [
+    30.421309,
+    -87.2169149
+  ],
+  "Coventry, Rhode Island, Washington": [
+    41.6884336,
+    -71.5667291
+  ],
+  "Portland, Oregon, Multnomah": [
+    45.5202471,
+    -122.674194
+  ],
+  "Smyrna, Georgia, Cobb": [
+    33.883887,
+    -84.5147454
+  ],
+  "North Las Vegas, Nevada, Clark": [
+    36.2005843,
+    -115.121584
+  ],
+  "Alpine, California, San Diego": [
+    32.8438587,
+    -116.76011480083878
+  ],
+  "Gallup, New Mexico, McKinley": [
+    35.5283506,
+    -108.743907
+  ],
+  "Mission, Texas, Hidalgo": [
+    26.2159066,
+    -98.3252932
+  ],
+  "Stockton, California, San Joaquin": [
+    37.9577016,
+    -121.290779
+  ],
+  "Berkeley, Missouri, St. Louis": [
+    38.7544952,
+    -90.3312256
+  ],
+  "Flushing, New York, Queens": [
+    40.7654301,
+    -73.8174291
+  ],
+  "Plainfield, New Jersey, Union": [
+    40.6201412,
+    -74.4222416
+  ],
+  "Greenwich, New Jersey, Gloucester": [
+    39.79203325,
+    -75.2401093128752
+  ],
+  "Orangeburg, New York, Rockland": [
+    41.0514735,
+    -73.93431361248786
+  ],
+  "Orlando, Florida, Orange": [
+    28.5421109,
+    -81.3790304
+  ],
+  "Sherman, California, Los Angeles": [
+    34.1508718,
+    -118.448986
+  ],
+  "Camden, New Jersey, Camden": [
+    39.9448402,
+    -75.1198911
+  ],
+  "Sparks, Nevada, Washoe": [
+    39.5404679,
+    -119.7487235
+  ],
+  "Oakland, California, Alameda": [
+    37.8044557,
+    -122.271356
+  ],
+  "Rochester, Pennsylvania, Indiana": [
+    40.8186752,
+    -78.9855885
+  ],
+  "Duluth, Georgia, Gwinnett": [
+    34.0028569,
+    -84.1441046
+  ],
+  "Birmingham, Alabama, Jefferson": [
+    33.5206824,
+    -86.8024326
+  ],
+  "Danville, Alabama, Madison": [
+    34.6652435,
+    -86.56942599999999
+  ],
+  "Ocean City, New Jersey, Cape May": [
+    39.2776156,
+    -74.5746001
+  ],
+  "Benton, Michigan, Berrien": [
+    42.1167065,
+    -86.4541894
+  ],
+  "Spokane, Washington, Spokane": [
+    47.6571934,
+    -117.42351
+  ],
+  "Alhambra, California, Orange": [
+    33.69616536047226,
+    -117.75332623004081
+  ],
+  "Wilmington, California, Los Angeles": [
+    33.7800164,
+    -118.262509
+  ],
+  "Chelsea, Massachusetts, Suffolk": [
+    42.3912241,
+    -71.0369301
+  ],
+  "Charleston, South Carolina, Charleston": [
+    32.7884363,
+    -79.9399309
+  ],
+  "Juneau, Alaska, Juneau": [
+    58.3566191,
+    -134.58019300175383
+  ],
+  "Ontario, California, San Bernardino": [
+    34.065846,
+    -117.64843
+  ],
+  "Morristown, Indiana, Shelby": [
+    39.6732065,
+    -85.6989709
+  ],
+  "Sterling, Virginia, Loudoun": [
+    39.003685000000004,
+    -77.40830961680487
+  ],
+  "Franklin, Indiana, Johnson": [
+    39.4806056,
+    -86.0549863
+  ],
+  "Olympia, Washington, Thurston": [
+    47.0451022,
+    -122.8950075
+  ],
+  "Sacramento, California, Yolo": [
+    38.5804609,
+    -121.530234
+  ],
+  "Washington, Utah, Washington": [
+    37.1305373,
+    -113.5082867
+  ],
+  "Plainview, New York, Nassau": [
+    40.7834607,
+    -73.47388435510257
+  ],
+  "Oklahoma City, Oklahoma, Oklahoma": [
+    35.4729886,
+    -97.5170536
+  ],
+  "Garland, Texas, Dallas": [
+    32.912624,
+    -96.6388833
+  ],
+  "Fairmont, Maryland, Prince George's": [
+    38.9043061,
+    -76.91657897360112
+  ],
+  "Kingsville, Maryland, Baltimore": [
+    39.447770899999995,
+    -76.41912556678145
+  ],
+  "Naples, Florida, Collier": [
+    26.1421976,
+    -81.7942944
+  ],
+  "Trenton, Michigan, Wayne": [
+    42.1406552,
+    -83.1800544
+  ],
+  "Pueblo, New Mexico, Sandoval": [
+    35.880326,
+    -106.1435398805106
+  ],
+  "Shelton, Washington, Mason": [
+    47.2150945,
+    -123.100706
+  ],
+  "Savannah, Texas, Collin": [
+    33.01796045299939,
+    -96.79873705241873
+  ],
+  "Daytona Beach, Florida, Volusia": [
+    29.2108147,
+    -81.0228331
+  ],
+  "Casa Grande, Arizona, Pinal": [
+    32.8772834,
+    -111.7536818
+  ],
+  "Longview, Texas, Gregg": [
+    32.5007031,
+    -94.74049
+  ],
+  "San Francisco, California, San Francisco": [
+    37.776547,
+    -122.39483705092607
+  ],
+  "Arcadia, California, Los Angeles": [
+    34.1362075,
+    -118.0401497
+  ],
+  "Dover, Maryland, Prince George's": [
+    38.76853985345019,
+    -77.0221739006976
+  ],
+  "Arizona, Arizona, Pinal": [
+    32.8085851,
+    -111.4426212
+  ],
+  "Burbank, California, Los Angeles": [
+    34.1812089,
+    -118.307201
+  ],
+  "Washington, District of Columbia, District of Columbia": [
+    38.8950368,
+    -77.0365427
+  ],
+  "San Antonio, Texas, Bexar": [
+    29.4246002,
+    -98.4951405
+  ],
+  "Deming, New Mexico, Luna": [
+    32.2627416,
+    -107.7581979
+  ],
+  "Gainesville, Florida, Alachua": [
+    29.6519684,
+    -82.3249846
+  ],
+  "Darlington, New Jersey, Bergen": [
+    41.0793932,
+    -74.1829716
+  ],
+  "Woodbridge, New Jersey, Middlesex": [
+    40.55418,
+    -74.28600076944446
+  ],
+  "Weehawken, New Jersey, Hudson": [
+    40.7695457,
+    -74.0204177
+  ],
+  "Honolulu, Hawaii, Honolulu": [
+    21.304547,
+    -157.855676
+  ],
+  "Harrisburg, Pennsylvania, Dauphin": [
+    40.2663107,
+    -76.8861122
+  ],
+  "Provincetown, Massachusetts, Barnstable": [
+    42.0525612,
+    -70.1858639
+  ],
+  "San Mateo, California, San Mateo": [
+    37.5629997,
+    -122.3253265
+  ],
+  "Palmdale, California, Los Angeles": [
+    34.5793131,
+    -118.11711
+  ],
+  "Santa Monica, California, Los Angeles": [
+    34.0194704,
+    -118.491227
+  ],
+  "Paterson, New Jersey, Passaic": [
+    40.9167654,
+    -74.171811
+  ],
+  "Vallejo, California, Solano": [
+    38.1040864,
+    -122.2566367
+  ],
+  "Sierra Vista, Arizona, Cochise": [
+    31.5545973,
+    -110.2997756
+  ],
+  "Tupelo, Arizona, Pinal": [
+    33.26207830415752,
+    -111.56907784424607
+  ],
+  "Gretna, Louisiana, Jefferson": [
+    29.9146493,
+    -90.0539604
+  ],
+  "Flint, Michigan, Genesee": [
+    43.0161693,
+    -83.6900211
+  ],
+  "Westport, Massachusetts, Bristol": [
+    41.6220399,
+    -71.0780195
+  ],
+  "Indianapolis, Indiana, Marion": [
+    39.7683331,
+    -86.1583502
+  ],
+  "Jersey City, New Jersey, Hudson": [
+    40.7215682,
+    -74.047455
+  ],
+  "Spartanburg, South Carolina, Spartanburg": [
+    34.9498007,
+    -81.9320157
+  ],
+  "Charlotte, Tennessee, Dickson": [
+    36.1772797,
+    -87.3397319
+  ],
+  "Santa Rosa, California, Sonoma": [
+    38.4404925,
+    -122.7141049
+  ],
+  "Santa Fe, New Mexico, Santa Fe": [
+    35.6876096,
+    -105.938456
+  ],
+  "Henderson, Nevada, Clark": [
+    36.0319843,
+    -114.9822486
+  ],
+  "Beverly, Maryland, Prince George's": [
+    38.75651357146316,
+    -76.88665758200769
+  ],
+  "Hyattsville, Maryland, Prince George's": [
+    38.9529442,
+    -76.9408647
+  ],
+  "Louisville, Kentucky, Jefferson": [
+    38.2542376,
+    -85.759407
+  ],
+  "Staten Island, New York, Richmond": [
+    40.5739937,
+    -74.1304203
+  ],
+  "Darlington, Texas, Tarrant": [
+    32.88888999691947,
+    -97.36156243826022
+  ],
+  "El Centro, California, Imperial": [
+    32.792,
+    -115.563051
+  ],
+  "Lowell, Massachusetts, Middlesex": [
+    42.6414437,
+    -71.3085329
+  ],
+  "Greensboro, North Carolina, Guilford": [
+    36.0726355,
+    -79.7919754
+  ],
+  "Hialeah, Florida, Miami-Dade": [
+    25.8575963,
+    -80.2781057
+  ],
+  "Union, New Jersey, Monmouth": [
+    40.66926004186285,
+    -74.23797111278195
+  ],
+  "Miami Beach, Florida, Miami-Dade": [
+    25.7929198,
+    -80.1353006
+  ],
+  "Carlsbad, California, San Diego": [
+    33.1580933,
+    -117.3505966
+  ],
+  "Florence, South Carolina, Florence": [
+    34.1984435,
+    -79.7671658
+  ],
+  "Chandler, Arizona, Maricopa": [
+    33.3062031,
+    -111.841185
+  ],
+  "Avondale, Arizona, Maricopa": [
+    33.4355977,
+    -112.349602
+  ],
+  "San Bernardino, California, San Bernardino": [
+    34.1081621,
+    -117.28946
+  ],
+  "Key West, Florida, Monroe": [
+    24.5548262,
+    -81.8020722
+  ],
+  "Belle Glade, Florida, Palm Beach": [
+    26.6845104,
+    -80.6675577
+  ],
+  "Barstow, California, San Bernardino": [
+    34.8986215,
+    -117.0244313
+  ],
+  "Pittsburgh, Pennsylvania, Allegheny": [
+    40.4416941,
+    -79.9900861
+  ],
+  "Compton, California, Los Angeles": [
+    33.894927,
+    -118.226624
+  ],
+  "Mount Vernon, New Jersey, Sussex": [
+    41.1765451,
+    -74.48794705962139
+  ],
+  "Fort Collins, Colorado, Larimer": [
+    40.5871782,
+    -105.0770113
+  ],
+  "Worcester, Massachusetts, Suffolk": [
+    42.3406606,
+    -71.07972076919253
+  ],
+  "Alamogordo, New Mexico, Otero": [
+    32.8998822,
+    -105.9602081
+  ],
+  "Antioch, California, Contra Costa": [
+    38.0049214,
+    -121.805789
+  ],
+  "Newton, New Jersey, Sussex": [
+    41.0582103,
+    -74.7530943
+  ],
+  "Modesto, California, Stanislaus": [
+    37.6393419,
+    -120.9968892
+  ],
+  "Andover, Florida, Hillsborough": [
+    28.0491025,
+    -82.5342904
+  ],
+  "El Dorado, Arkansas, Union": [
+    33.2115087,
+    -92.6650144
+  ],
+  "Alexandria, Virginia, Alexandria, City of": [
+    38.80724,
+    -77.0879
+  ],
+  "Needles, California, San Bernardino": [
+    34.8383236,
+    -114.603872
+  ],
+  "Charleston, Nevada, Clark": [
+    36.1579601,
+    -115.1482005
+  ],
+  "Elgin, Arizona, Santa Cruz": [
+    31.650702000000003,
+    -110.49014267218385
+  ],
+  "Corona, New York, Queens": [
+    40.7469593,
+    -73.8601456
+  ],
+  "Pasadena, California, Los Angeles": [
+    34.1476507,
+    -118.144155
+  ],
+  "Augusta, Georgia, Richmond": [
+    33.4709714,
+    -81.9748429
+  ],
+  "Beaumont, California, Riverside": [
+    33.9299925,
+    -116.9763092
+  ],
+  "Jasper, Georgia, Pickens": [
+    34.4678687,
+    -84.4290918
+  ],
+  "Ipswich, Massachusetts, Essex": [
+    42.679273,
+    -70.8411583
+  ],
+  "Culver City, California, Los Angeles": [
+    34.0211224,
+    -118.396466
+  ],
+  "Palm Beach, Florida, Palm Beach": [
+    26.7056172,
+    -80.0361517
+  ],
+  "Newport Beach, California, Orange": [
+    33.6170092,
+    -117.9294401
+  ],
+  "Narragansett, Rhode Island, Washington": [
+    41.4501021,
+    -71.4495005
+  ],
+  "Bedford, Massachusetts, Middlesex": [
+    42.4917301,
+    -71.2817947
+  ],
+  "New Orleans, Louisiana, Orleans": [
+    29.9759983,
+    -90.0782127
+  ],
+  "Monterey, California, Los Angeles": [
+    34.051522,
+    -118.129807
+  ],
+  "Claremont, California, Los Angeles": [
+    34.0966764,
+    -117.7197785
+  ],
+  "Durham, North Carolina, Durham": [
+    35.996653,
+    -78.9018053
+  ],
+  "Hollywood, Florida, Broward": [
+    26.0112014,
+    -80.1494901
+  ],
+  "Orange, New Jersey, Essex": [
+    40.7709499,
+    -74.2264601
+  ],
+  "Sonoma, California, Sonoma": [
+    38.2919984,
+    -122.4578582
+  ],
+  "Sausalito, California, Marin": [
+    37.8590272,
+    -122.485469
+  ],
+  "Goldsboro, North Carolina, Wayne": [
+    35.3848841,
+    -77.9927651
+  ],
+  "Monticello, New York, Sullivan": [
+    41.6556465,
+    -74.6893282
+  ],
+  "Van Buren, Arkansas, Crawford": [
+    35.4424419,
+    -94.3431393
+  ],
+  "Albuquerque, New Mexico, Bernalillo": [
+    35.0841034,
+    -106.650985
+  ],
+  "Barrington, Rhode Island, Bristol": [
+    41.7407661,
+    -71.3084633
+  ],
+  "Brunswick, New Jersey, Middlesex": [
+    40.520416850000004,
+    -74.46453034387298
+  ],
+  "Douglas, Arizona, Cochise": [
+    31.3447174,
+    -109.5545036
+  ],
+  "Alexandria, Virginia, Fairfax": [
+    38.746239849999995,
+    -77.15272591676003
+  ],
+  "Fort Pierce, Florida, St. Lucie": [
+    27.4467056,
+    -80.3256056
+  ],
+  "Revere, Massachusetts, Suffolk": [
+    42.4084302,
+    -71.0119948
+  ],
+  "Florence, Wisconsin, Florence": [
+    45.9223656,
+    -88.2519441
+  ],
+  "Inglewood, California, Los Angeles": [
+    33.9562003,
+    -118.353132
+  ],
+  "Macon, Georgia, Bibb": [
+    32.8406946,
+    -83.6324022
+  ],
+  "Lancaster, California, Los Angeles": [
+    34.6981064,
+    -118.1366153
+  ],
+  "Highland Park, Michigan, Wayne": [
+    42.4055981,
+    -83.0965829
+  ],
+  "Lewiston, New York, Niagara": [
+    43.172555,
+    -79.035878
+  ],
+  "Alameda, California, Alameda": [
+    37.7652076,
+    -122.241635
+  ],
+  "Shreveport, Louisiana, Caddo": [
+    32.5135356,
+    -93.7477839
+  ],
+  "Chula Vista, California, San Diego": [
+    32.6400541,
+    -117.084195
+  ],
+  "Boulder City, Nevada, Clark": [
+    35.9776606,
+    -114.8377351
+  ],
+  "Fort Lee, New Jersey, Bergen": [
+    40.8509333,
+    -73.9701382
+  ],
+  "Knoxville, Tennessee, Knox": [
+    35.9603948,
+    -83.9210261
+  ],
+  "Youngstown, New York, Niagara": [
+    43.2474804,
+    -79.0501083
+  ],
+  "Palm Springs, California, Riverside": [
+    33.8246269,
+    -116.540303
+  ],
+  "Glendale, California, Los Angeles": [
+    34.1469416,
+    -118.2478471
+  ],
+  "Kingman, Arizona, Mohave": [
+    35.189443,
+    -114.0530065
+  ],
+  "Sun Valley, California, Los Angeles": [
+    34.2204227,
+    -118.3878945
+  ],
+  "Corona, California, Riverside": [
+    33.8752945,
+    -117.566444
+  ],
+  "Savannah, Georgia, Chatham": [
+    32.0790074,
+    -81.0921335
+  ],
+  "Dalton, California, Imperial": [
+    33.31410055255215,
+    -115.95755663896307
+  ],
+  "Rochester, Vermont, Windsor": [
+    43.8747279,
+    -72.8085322
+  ],
+  "Charleston, California, Los Angeles": [
+    34.132318232763346,
+    -118.34644633976193
+  ],
+  "Oxnard, California, Ventura": [
+    34.1976308,
+    -119.180381
+  ],
+  "Torrance, California, Los Angeles": [
+    33.8371392,
+    -118.3413606
+  ],
+  "Odessa, Delaware, New Castle": [
+    39.457334,
+    -75.6613184
+  ],
+  "Concord, New Hampshire, Merrimack": [
+    43.207178,
+    -71.537476
+  ],
+  "Exeter, California, Tulare": [
+    36.2961694,
+    -119.1420953
+  ],
+  "Denver, Colorado, Denver": [
+    39.6783106,
+    -104.96247276308813
+  ],
+  "Elmhurst, New York, Queens": [
+    40.7365804,
+    -73.8783932
+  ],
+  "Gary, Florida, Volusia": [
+    29.167624186431446,
+    -81.02813248250412
+  ],
+  "Venice, California, Los Angeles": [
+    33.995044,
+    -118.4668875
+  ],
+  "Ketchikan, Alaska, Ketchikan Gateway": [
+    55.3430696,
+    -131.6466819
+  ],
+  "Lake Havasu City, Arizona, Mohave": [
+    34.4775296,
+    -114.3379972
+  ],
+  "Sioux Falls, South Dakota, Minnehaha": [
+    43.5476008,
+    -96.7293629
+  ],
+  "White Plains, Georgia, Greene": [
+    33.4720779,
+    -83.035429
+  ],
+  "San Jose, California, Santa Clara": [
+    37.3361663,
+    -121.890591
+  ],
+  "Mount Vernon, Washington, Skagit": [
+    48.4200462,
+    -122.32642
+  ],
+  "Leominster, Massachusetts, Worcester": [
+    42.5267443,
+    -71.7614891
+  ],
+  "Essex, Maryland, Baltimore": [
+    39.301058999999995,
+    -76.44248693849093
+  ],
+  "Elwood, New Jersey, Cape May": [
+    38.99065998572695,
+    -74.95519281147173
+  ],
+  "Wheaton, Illinois, Page": [
+    41.86401869795267,
+    -88.1400092255456
+  ],
+  "Lakeview, California, Los Angeles": [
+    34.5574906,
+    -118.1434067
+  ],
+  "Fairbanks, Alaska, Fairbanks North Star": [
+    64.837845,
+    -147.716675
+  ],
+  "Gloucester, New Jersey, Camden": [
+    39.8918622,
+    -75.1161897
+  ],
+  "Yonkers, New York, Westchester": [
+    40.9312099,
+    -73.8987469
+  ],
+  "Jackson, Mississippi, Hinds": [
+    32.2998686,
+    -90.1830408
+  ],
+  "Roselle, New Jersey, Union": [
+    40.6527033,
+    -74.2579418
+  ],
+  "Olean, New York, Cattaraugus": [
+    42.0775022,
+    -78.4298248
+  ],
+  "Westminster, South Carolina, Oconee": [
+    34.6648197,
+    -83.0965425
+  ],
+  "Lakewood, Washington, Pierce": [
+    47.1717649,
+    -122.518458
+  ],
+  "Hempstead, New York, Nassau": [
+    40.6736812,
+    -73.6190736
+  ],
+  "Scottsdale, Arizona, Maricopa": [
+    33.4942189,
+    -111.926018
+  ],
+  "Wayne, Florida, Miami-Dade": [
+    25.858698247124043,
+    -80.12701805171106
+  ],
+  "Eagle Pass, Texas, Maverick": [
+    28.7083999,
+    -100.503941
+  ],
+  "Abingdon, Virginia, Washington": [
+    36.7104018,
+    -81.975249
+  ],
+  "Erie, Louisiana, Jefferson": [
+    29.85532043464716,
+    -90.03869813889497
+  ],
+  "Truth or Consequences, New Mexico, Sierra": [
+    33.1283485,
+    -107.2529059
+  ],
+  "Braintree, Massachusetts, Norfolk": [
+    42.2205956,
+    -71.0041229
+  ],
+  "Winchester, Virginia, Frederick": [
+    39.143367749999996,
+    -78.14369087132627
+  ],
+  "Irving, Texas, Dallas": [
+    32.8295183,
+    -96.9442177
+  ],
+  "Helena, Arkansas, Phillips": [
+    34.5267514,
+    -90.5862594
+  ],
+  "Sacramento, California, Sacramento": [
+    38.5810606,
+    -121.493895
+  ],
+  "Flagstaff, Arizona, Coconino": [
+    35.1987522,
+    -111.651822
+  ],
+  "Texarkana, Texas, Bowie": [
+    33.44667445,
+    -94.07714830522015
+  ],
+  "Haverhill, Massachusetts, Essex": [
+    42.7777829,
+    -71.0767724
+  ],
+  "San Angelo, Texas, Green": [
+    31.4649685,
+    -100.4405094
+  ],
+  "Saugus, California, Los Angeles": [
+    34.4493489,
+    -118.5168257
+  ],
+  "Hollywood, California, Los Angeles": [
+    34.0980031,
+    -118.329523
+  ],
+  "Webster, Massachusetts, Worcester": [
+    42.0501373,
+    -71.8803308
+  ],
+  "Gulfport, Mississippi, Harrison": [
+    30.3674198,
+    -89.0928155
+  ],
+  "Belmont, California, Los Angeles": [
+    34.1458333,
+    -118.2433333
+  ],
+  "Morrilton, Arkansas, Conway": [
+    35.154026,
+    -92.7429266
+  ],
+  "Brookline, Massachusetts, Norfolk": [
+    42.3329021,
+    -71.1187421
+  ],
+  "Gary, Indiana, Clarke": [
+    41.6113484,
+    -87.3945392
+  ],
+  "Niagara Falls, New York, Niagara": [
+    43.08436,
+    -79.0614686
+  ],
+  "Erie, Texas, Dallas": [
+    32.842840207953856,
+    -96.71190403024308
+  ],
+  "Rancho Cucamonga, California, San Bernardino": [
+    34.1033192,
+    -117.575173
+  ],
+  "Pharr, Texas, Hidalgo": [
+    26.1947962,
+    -98.1836216
+  ],
+  "San Gabriel, California, Los Angeles": [
+    34.0990995,
+    -118.1085554
+  ],
+  "Chattanooga, Tennessee, Hamilton": [
+    35.0457219,
+    -85.3094883
+  ],
+  "Huntington, West Virginia, Wayne": [
+    38.36796505,
+    -82.55960211897741
+  ],
+  "Kearney, New Jersey, Hudson": [
+    40.74428065,
+    -74.08699805033683
+  ],
+  "Fresno, California, Fresno": [
+    36.7394421,
+    -119.78483
+  ],
+  "Coronado, California, San Diego": [
+    32.6915199,
+    -117.1766947
+  ],
+  "Escondido, California, San Diego": [
+    33.1216751,
+    -117.0814849
+  ],
+  "Winona, Texas, Smith": [
+    32.4905867,
+    -95.1668934
+  ],
+  "Astoria, New York, Queens": [
+    40.7720145,
+    -73.9302673
+  ],
+  "Largo, Maryland, Prince George's": [
+    38.8824538,
+    -76.82857456500106
+  ],
+  "Bronx, New York, York": [
+    40.8466508,
+    -73.8785937
+  ],
+  "College Park, Georgia, Fulton": [
+    33.6534427,
+    -84.4493725
+  ],
+  "Ashland, South Carolina, Charleston": [
+    32.800651731980736,
+    -79.99796123206609
+  ],
+  "Fernandina Beach, Florida, Nassau": [
+    30.6696818,
+    -81.4625919
+  ],
+  "Las Cruces, New Mexico, Do\u00f1a Ana": [
+    32.3140354,
+    -106.779807
+  ],
+  "Long Branch, New Jersey, Monmouth": [
+    40.3042778,
+    -73.9923596
+  ],
+  "Tempe, Arizona, Maricopa": [
+    33.4255117,
+    -111.940016
+  ],
+  "Ecorse, Michigan, Wayne": [
+    42.2444833,
+    -83.145757
+  ],
+  "Attleboro, Massachusetts, Bristol": [
+    41.9439695,
+    -71.2804301
+  ],
+  "Mesquite, Texas, Dallas": [
+    32.7666103,
+    -96.599472
+  ],
+  "Kent, Florida, Escambia": [
+    30.572277919620056,
+    -87.36080740366305
+  ],
+  "Bowie, Maryland, Prince George's": [
+    38.9424464,
+    -76.7301718
+  ],
+  "Columbia, South Carolina, Richland": [
+    34.000754,
+    -81.0352313
+  ],
+  "Natchez, Mississippi, Adams": [
+    31.5604076,
+    -91.403171
+  ],
+  "Gloucester, Massachusetts, Essex": [
+    42.6153595,
+    -70.6624608
+  ],
+  "Clarksville, Virginia, Mecklenburg": [
+    36.6240321,
+    -78.5569437
+  ],
+  "Hot Springs, Arkansas, Garland": [
+    34.5038393,
+    -93.0552437
+  ],
+  "Brunswick, Georgia, Glynn": [
+    31.1499528,
+    -81.4914894
+  ],
+  "Fontana, California, San Bernardino": [
+    34.0922947,
+    -117.43433
+  ],
+  "Bordentown, New Jersey, Burlington": [
+    40.1462685,
+    -74.7114508
+  ],
+  "Belen, New Mexico, Valencia": [
+    34.6627495,
+    -106.7762
+  ],
+  "Sanford, Florida, Seminole": [
+    28.8117345,
+    -81.2680223
+  ],
+  "Greenwood, New York, Suffolk": [
+    40.96290395,
+    -72.77748384516804
+  ],
+  "Minneapolis, Minnesota, Hennepin": [
+    44.9772995,
+    -93.2654692
+  ],
+  "Cocoa Beach, Florida, Brevard": [
+    28.3184107,
+    -80.6094959
+  ],
+  "Harmony, New Jersey, Warren": [
+    40.746765,
+    -75.1373974
+  ],
+  "Fresno, Texas, Cameron": [
+    26.225829344925916,
+    -97.66720843863298
+  ],
+  "Eau Claire, Wisconsin, Eau Claire": [
+    44.811349,
+    -91.4984941
+  ],
+  "Berkeley, New Jersey, Ocean": [
+    39.8979458,
+    -74.1807001
+  ],
+  "Buena Park, California, Orange": [
+    33.870413,
+    -117.9962165
+  ],
+  "Madison, Ohio, Cuyahoga": [
+    41.4768809,
+    -81.7876976
+  ],
+  "Ludlow, California, San Bernardino": [
+    34.7218178,
+    -116.1619558
+  ],
+  "Boca Raton, Florida, Palm Beach": [
+    26.3586885,
+    -80.0830984
+  ],
+  "El Cerrito, California, Contra Costa": [
+    37.9154056,
+    -122.301411
+  ],
+  "Salem, Massachusetts, Essex": [
+    42.5195292,
+    -70.8967226
+  ],
+  "Southampton, New York, Suffolk": [
+    40.884267,
+    -72.3895296
+  ],
+  "Trenton, New Jersey, Mercer": [
+    40.2203074,
+    -74.7659
+  ],
+  "Salisbury, Massachusetts, Essex": [
+    42.8418855,
+    -70.8602328
+  ],
+  "Tulsa, Oklahoma, Tulsa": [
+    36.1563122,
+    -95.9927516
+  ],
+  "Myrtle Beach, South Carolina, Horry": [
+    33.6956461,
+    -78.8900409
+  ],
+  "Falls Church, Virginia, Fairfax": [
+    38.88039039576733,
+    -77.1702651535243
+  ],
+  "Summit, New Jersey, Union": [
+    40.7182356,
+    -74.3592296
+  ],
+  "Laurel, New Jersey, Burlington": [
+    39.972383199999996,
+    -74.89354422883176
+  ],
+  "Passaic, New Jersey, Passaic": [
+    40.8567663,
+    -74.1284764
+  ],
+  "Carson City, Nevada, Carson": [
+    39.1674877,
+    -119.767296
+  ],
+  "Lowell, California, Imperial": [
+    34.1639017,
+    -119.17454875
+  ],
+  "Tacoma, Washington, Pierce": [
+    47.2455013,
+    -122.438329
+  ],
+  "Durant, Oklahoma, Bryan": [
+    33.9919761,
+    -96.3776762
+  ],
+  "Pontiac, Michigan, Oakland": [
+    42.6389216,
+    -83.2910468
+  ],
+  "Homestead, Florida, Miami-Dade": [
+    25.4718946,
+    -80.4759905
+  ],
+  "Fairfax, Virginia, Fairfax": [
+    38.8585585,
+    -77.3050325986845
+  ],
+  "Wauwatosa, Wisconsin, Milwaukee": [
+    43.0494122,
+    -88.0079271
+  ],
+  "Fitchburg, Massachusetts, Worcester": [
+    42.5854371,
+    -71.8046023
+  ],
+  "Alpine, New Jersey, Bergen": [
+    40.94855,
+    -73.9281139
+  ],
+  "Newport, Rhode Island, Newport": [
+    41.4899827,
+    -71.3137707
+  ],
+  "Jefferson City, Louisiana, Jefferson": [
+    30.43429665,
+    -91.11289009590539
+  ],
+  "Fayetteville, Arkansas, Washington": [
+    36.0625843,
+    -94.1574328
+  ],
+  "Newark, New Jersey, Hudson": [
+    40.6773667,
+    -74.1297335
+  ],
+  "Rockville, Maryland, Montgomery": [
+    39.0817985,
+    -77.1516844
+  ],
+  "Eureka, North Carolina, Wayne": [
+    35.54266,
+    -77.8763717
+  ],
+  "Glendale, Texas, Smith": [
+    32.30909226725387,
+    -95.31198475491004
+  ],
+  "Marietta, Georgia, Cobb": [
+    33.9528472,
+    -84.5496148
+  ],
+  "Bayonne, New Jersey, Hudson": [
+    40.6687141,
+    -74.1143091
+  ],
+  "Evansville, Indiana, Vanderburgh": [
+    37.970495,
+    -87.5715641
+  ],
+  "Carrollton, Texas, Dallas": [
+    32.9537349,
+    -96.8902816
+  ],
+  "Columbus, Texas, Colorado": [
+    29.7066181,
+    -96.539699
+  ],
+  "Falmouth, Kentucky, Pendleton": [
+    38.6767366,
+    -84.3304592
+  ],
+  "San Juan Capistrano, California, Orange": [
+    33.5016932,
+    -117.6625509
+  ],
+  "Forest Hills, New York, Queens": [
+    40.723100900000006,
+    -73.84661252338407
+  ],
+  "Mobile, Arizona, Maricopa": [
+    33.0579792,
+    -112.270457
+  ],
+  "Ventura, California, Ventura": [
+    34.2783355,
+    -119.293174
+  ],
+  "Urbana, Maryland, Frederick": [
+    39.3206075,
+    -77.34164024541285
+  ],
+  "Silver City, New Mexico, Grant": [
+    32.7711825,
+    -108.2764164
+  ],
+  "Pompano Beach, Florida, Broward": [
+    26.2378597,
+    -80.1247667
+  ],
+  "Dover, Nevada, Elko": [
+    41.1045798922185,
+    -114.97078403775376
+  ],
+  "Union City, New Jersey, Hudson": [
+    40.7795455,
+    -74.0237512
+  ],
+  "Wilson, New York, Niagara": [
+    43.309778,
+    -78.82615
+  ],
+  "Anaheim, California, Orange": [
+    33.8347516,
+    -117.911732
+  ],
+  "Mount Vernon, Illinois, Jefferson": [
+    38.3172715,
+    -88.9031201
+  ],
+  "Mobile, Alabama, Mobile": [
+    30.6913462,
+    -88.0437509
+  ],
+  "Tillamook, Oregon, Tillamook": [
+    45.455921,
+    -123.844429
+  ],
+  "Rutland, California, San Bernardino": [
+    34.1535561,
+    -117.53843875
+  ],
+  "Columbus, Ohio, Franklin": [
+    39.9622601,
+    -83.0007065
+  ],
+  "York, New York, Bronx": [
+    40.8466508,
+    -73.8785937
+  ],
+  "Red Wing, Minnesota, Goodhue": [
+    44.5624676,
+    -92.5338013
+  ],
+  "Akron, Ohio, Summit": [
+    41.083064,
+    -81.518485
+  ],
+  "Downey, California, Los Angeles": [
+    33.9404441,
+    -118.1292846
+  ],
+  "Tiverton, Nevada, Clark": [
+    36.03241051442029,
+    -115.15042347785314
+  ],
+  "Darlington, Virginia, Darlington": [
+    37.20238221378172,
+    -78.56533618112798
+  ],
+  "Opelousas, Louisiana, St. Landry": [
+    30.5335302,
+    -92.081509
+  ],
+  "West Bridgewater, Massachusetts, Plymouth": [
+    42.0191056,
+    -71.0076743
+  ],
+  "Mexico, California, San Diego": [
+    32.5426316,
+    -117.0276042
+  ],
+  "Glendale, Colorado, Arapahoe": [
+    39.7048155,
+    -104.933508
+  ],
+  "Ocala, Florida, Marion": [
+    29.1871986,
+    -82.1400923
+  ],
+  "Pasadena, Texas, Harris": [
+    29.6910753,
+    -95.2092076
+  ],
+  "Norwalk, Connecticut, Fairfield": [
+    41.21709339755057,
+    -73.42552158438656
+  ],
+  "Pendleton, California, San Diego": [
+    33.35453425,
+    -117.42417276260397
+  ],
+  "South Charleston, West Virginia, Kanawha": [
+    38.368429,
+    -81.69957
+  ],
+  "Bryan, Texas, Brazoria": [
+    28.8833061,
+    -95.3785523
+  ],
+  "Hagerstown, Maryland, Washington": [
+    39.6430455,
+    -77.7191081
+  ],
+  "Hyde Park, New York, Dutchess": [
+    41.784195600000004,
+    -73.93739119578458
+  ],
+  "Redmond, Oklahoma, Oklahoma": [
+    35.53369148380435,
+    -97.62366645119171
+  ],
+  "Plano, Texas, Collin": [
+    33.0136764,
+    -96.6925096
+  ],
+  "Brooklyn, New York, York": [
+    40.6526006,
+    -73.9497211
+  ],
+  "Cincinnati, Ohio, Hamilton": [
+    39.1014537,
+    -84.5124602
+  ],
+  "Clinton, Mississippi, Hinds": [
+    32.3410552,
+    -90.3215983
+  ],
+  "Bowie, Arizona, Cochise": [
+    32.3262613,
+    -109.4870141
+  ],
+  "Berkeley, California, Alameda": [
+    37.8708393,
+    -122.272863
+  ],
+  "Union City, California, Alameda": [
+    37.5872576,
+    -122.0215737
+  ],
+  "Branson, Missouri, Stanley": [
+    36.64129370134458,
+    -93.23594371768083
+  ],
+  "Sharon, Massachusetts, Norfolk": [
+    42.1237328,
+    -71.1787282
+  ],
+  "Redlands, California, San Bernardino": [
+    34.0550328,
+    -117.1827445
+  ],
+  "Denison, Pennsylvania, Luzerne": [
+    41.29932935,
+    -75.86258240585768
+  ],
+  "Mesa, California, San Bernardino": [
+    35.1754032,
+    -117.0708543
+  ],
+  "Lincoln, Rhode Island, Providence": [
+    41.9529237,
+    -71.4663863
+  ],
+  "Scranton, Pennsylvania, Lackawanna": [
+    41.4086874,
+    -75.6621294
+  ],
+  "Richmond, Virginia, Henrico": [
+    37.530602900000005,
+    -77.42435102162091
+  ],
+  "Pueblo, Colorado, Pueblo": [
+    38.263995,
+    -104.6141867
+  ],
+  "Malibu, California, Los Angeles": [
+    34.035591,
+    -118.689423
+  ],
+  "Princeton, Texas, Collin": [
+    33.1801161,
+    -96.4980424
+  ],
+  "Columbus, Georgia, Muscogee": [
+    32.4610708,
+    -84.9880449
+  ],
+  "Plymouth, Massachusetts, Plymouth": [
+    41.9583799,
+    -70.6673851
+  ],
+  "Portage, Missouri, New Madrid": [
+    36.40407492107744,
+    -89.59267671890302
+  ],
+  "Gastonia, North Carolina, Gaston": [
+    35.2622654,
+    -81.1838186
+  ],
+  "Austin, California, Orange": [
+    33.691884649088045,
+    -117.77231313197078
+  ],
+  "Klamath Falls, Oregon, Klamath": [
+    42.224867,
+    -121.78167
+  ],
+  "Plymouth, Michigan, Wayne": [
+    42.3712,
+    -83.4675021
+  ],
+  "Lynchburg, Virginia, Lynchburg, City of": [
+    37.4064274,
+    -79.1570872
+  ],
+  "Petersburg, Virginia, Petersburg": [
+    37.23428885,
+    -77.40253239125295
+  ],
+  "Lincoln, Michigan, Wayne": [
+    42.306885449999996,
+    -83.2402816475684
+  ],
+  "Tyler, Texas, Smith": [
+    32.3512601,
+    -95.3010624
+  ],
+  "Springfield, Virginia, Fairfax": [
+    38.7749935,
+    -77.18038194329897
+  ],
+  "Susanville, California, Lassen": [
+    40.4162842,
+    -120.653006
+  ],
+  "Lead, California, Los Angeles": [
+    33.744034286430995,
+    -118.27946687888566
+  ],
+  "Norton, Virginia, Fairfax": [
+    38.79256262243007,
+    -77.09373872203241
+  ],
+  "Everett, Washington, Snohomish": [
+    47.9793437,
+    -122.2127011
+  ],
+  "Franklin, Tennessee, Williamson": [
+    35.925206,
+    -86.8689419
+  ],
+  "Melbourne, Florida, Brevard": [
+    28.0785034,
+    -80.6077908
+  ],
+  "Lakewood, New Jersey, Ocean": [
+    40.0978929,
+    -74.2176435
+  ],
+  "Alhambra, California, Los Angeles": [
+    34.093042,
+    -118.12706
+  ],
+  "Newport, Oregon, Lincoln": [
+    44.636755,
+    -124.053442
+  ],
+  "San Pedro, Arizona, Cochise": [
+    31.635569,
+    -110.1782455026131
+  ],
+  "Newport News, Virginia, Newport": [
+    36.99515675,
+    -76.44606114490145
+  ],
+  "Houlton, Wisconsin, St. Croix": [
+    45.0605226,
+    -92.791318
+  ],
+  "Caldwell, Idaho, Canyon": [
+    43.6678736,
+    -116.689415
+  ],
+  "Syracuse, New York, Onondaga": [
+    43.0481221,
+    -76.1474244
+  ],
+  "Providence, Rhode Island, Providence": [
+    41.8239891,
+    -71.4128343
+  ],
+  "Redding, California, Shasta": [
+    40.5863563,
+    -122.391675
+  ],
+  "Great Falls, Virginia, Fairfax": [
+    39.0116538,
+    -77.30839878649542
+  ],
+  "Cape May, New Jersey, Cape May": [
+    38.933431,
+    -74.9214226
+  ],
+  "Freeport, New York, Suffolk": [
+    40.63279496417774,
+    -73.58376772601959
+  ],
+  "Hanover, New Jersey, Morris": [
+    40.8174216,
+    -74.3954057
+  ],
+  "Marion, Louisiana, Union": [
+    32.9015214,
+    -92.2420822
+  ],
+  "Richmond, California, Contra Costa": [
+    37.9357576,
+    -122.347748
+  ],
+  "Whittier, California, Los Angeles": [
+    33.9749136,
+    -118.0338664
+  ],
+  "Dayton, Ohio, Montgomery": [
+    39.7589478,
+    -84.1916069
+  ],
+  "Seaside, New Jersey, Ocean": [
+    39.9427613,
+    -74.0735588
+  ],
+  "Garland, Texas, Brazoria": [
+    29.01649815,
+    -95.42427219024768
+  ],
+  "Brighton, New York, Monroe": [
+    43.1257954,
+    -77.5687343
+  ],
+  "Somerville, Massachusetts, Middlesex": [
+    42.3875968,
+    -71.0994968
+  ],
+  "Victorville, California, San Bernardino": [
+    34.5361067,
+    -117.2911565
+  ],
+  "Bardstown, Kentucky, Nelson": [
+    37.8092463,
+    -85.4669015
+  ],
+  "Cape Girardeau, Missouri, Cape Girardeau": [
+    37.3034933,
+    -89.5230357
+  ],
+  "Helena, Montana, Lewis and Clark": [
+    46.5927425,
+    -112.036277
+  ],
+  "Okmulgee, Oklahoma, Okmulgee": [
+    35.6230879,
+    -95.9719711
+  ],
+  "North Little Rock, Arkansas, Pulaski": [
+    34.769536,
+    -92.2670941
+  ],
+  "Cambridge, Massachusetts, Middlesex": [
+    42.3656347,
+    -71.1040018
+  ],
+  "Modesto, Texas, Dallas": [
+    32.75998713350338,
+    -96.69239415357411
+  ],
+  "Sumter, South Carolina, Sumter": [
+    33.9204354,
+    -80.3414693
+  ],
+  "Clinton, Maryland, Prince George's": [
+    38.752260699999994,
+    -76.89691550043136
+  ],
+  "Walsenburg, Colorado, Huerfano": [
+    37.6235234,
+    -104.780995
+  ],
+  "Dixon, Missouri, Pulaski": [
+    37.9917061,
+    -92.0937783
+  ],
+  "Pawtucket, Rhode Island, Providence": [
+    41.8789531,
+    -71.3821203
+  ],
+  "Jefferson City, Georgia, Jackson": [
+    34.13042695,
+    -83.57124856164319
+  ],
+  "Fullerton, California, Orange": [
+    33.8708215,
+    -117.929416
+  ],
+  "Bakersfield, California, Walker": [
+    35.37818561292639,
+    -119.06643318486397
+  ],
+  "Sand Springs, Oklahoma, Tulsa": [
+    36.1394339,
+    -96.1100025
+  ],
+  "Worcester, Massachusetts, Worcester": [
+    42.2625621,
+    -71.8018877
+  ],
+  "Burlington, Vermont, Chittenden": [
+    44.4761601,
+    -73.212906
+  ],
+  "Irvington, New Jersey, Essex": [
+    40.7264091,
+    -74.2289491
+  ],
+  "Indio, Texas, Maverick": [
+    28.5141533,
+    -100.311621
+  ],
+  "Lakeview, New York, Nassau": [
+    40.6769525,
+    -73.6509375
+  ],
+  "Brighton, Colorado, Adams": [
+    39.983721,
+    -104.8110775
+  ],
+  "Palo Alto, California, Santa Clara": [
+    37.4443293,
+    -122.1598465
+  ],
+  "Fayetteville, North Carolina, Cumberland": [
+    35.0525759,
+    -78.878292
+  ],
+  "Holyoke, Massachusetts, Hampden": [
+    42.2071184,
+    -72.6075851
+  ],
+  "Hickory, Tennessee, Davidson": [
+    36.28117345,
+    -86.77811371754791
+  ],
+  "Hutchinson, Texas, Dallas": [
+    32.773978150000005,
+    -96.80175063267362
+  ],
+  "Fort Lauderdale, Florida, Broward": [
+    26.1223084,
+    -80.1433786
+  ],
+  "Naperville, Illinois, Page": [
+    41.77404453749136,
+    -88.16504361651155
+  ],
+  "Corpus Christi, Texas, Nueces": [
+    27.7635302,
+    -97.4033191
+  ],
+  "Covington, Virginia, Alleghany": [
+    37.7813985,
+    -79.98991912667762
+  ],
+  "Rochester, New York, Monroe": [
+    43.157285,
+    -77.615214
+  ],
+  "Plainfield, Illinois, Kendall": [
+    41.5606502,
+    -88.27265360759486
+  ],
+  "Aurora, Colorado, Adams": [
+    39.7405111,
+    -104.830994
+  ],
+  "Grand Forks, North Dakota, Grand Forks": [
+    47.9252104,
+    -97.0306325
+  ],
+  "Brighton, Massachusetts, Suffolk": [
+    42.3491615,
+    -71.1533859
+  ],
+  "Grants Pass, Oregon, Josephine": [
+    42.4393707,
+    -123.3272489
+  ],
+  "Hot Springs, California, Riverside": [
+    33.961124,
+    -116.5016784
+  ],
+  "Bisbee, Arizona, Cochise": [
+    31.4417165,
+    -109.9159946
+  ],
+  "Pascagoula, Mississippi, Jackson": [
+    30.3646795,
+    -88.5585995
+  ],
+  "Portland, Maine, Cumberland": [
+    43.6573605,
+    -70.2586618
+  ],
+  "Orange, California, Orange": [
+    33.7872568,
+    -117.850308
+  ],
+  "Dallas, Georgia, Paulding": [
+    33.9237141,
+    -84.8407732
+  ],
+  "Newburyport, Massachusetts, Essex": [
+    42.8132845,
+    -70.8819188
+  ],
+  "West Memphis, Arkansas, Crittenden": [
+    35.1464797,
+    -90.1845388
+  ],
+  "Darlington, Maryland, Harford": [
+    39.6444385,
+    -76.2042833252728
+  ],
+  "Arizona, Arizona, Yakima": [
+    32.2759219355466,
+    -110.98448024484709
+  ],
+  "Shawnee, Oklahoma, Pottawatomie": [
+    35.3272928,
+    -96.9253004
+  ],
+  "Quincy, Massachusetts, Norfolk": [
+    42.2509914,
+    -71.0037374
+  ],
+  "East Point, Georgia, Fulton": [
+    33.6795531,
+    -84.4393724
+  ],
+  "Lawrence, Massachusetts, Essex": [
+    42.7070354,
+    -71.1631137
+  ],
+  "Mission, California, Orange": [
+    33.69876466009095,
+    -117.75397936016681
+  ],
+  "Newburgh, Maryland, Charles": [
+    38.5971611,
+    -76.8862673
+  ],
+  "South Bend, Indiana, St. Joseph": [
+    41.6833813,
+    -86.2500066
+  ],
+  "Columbia, Illinois, Monroe": [
+    38.4428078,
+    -90.1997949
+  ],
+  "San Leandro, California, Alameda": [
+    37.7249296,
+    -122.1560768
+  ],
+  "Warwick, New York, Orange": [
+    41.256483,
+    -74.3598755
+  ],
+  "Philadelphia, Tennessee, Loudon": [
+    35.6795198,
+    -84.4038148
+  ],
+  "Bethany, Delaware, Sussex": [
+    38.5379676,
+    -75.0588646
+  ],
+  "Mesa, California, San Diego": [
+    32.7761529,
+    -117.07330366921886
+  ],
+  "San Marcos, Texas, Hays": [
+    29.8826436,
+    -97.9405828
+  ],
+  "Bend, Washington, Rockingham": [
+    43.43228709999447,
+    -88.21539215038953
+  ],
+  "Springfield, Missouri, Greene": [
+    37.2081729,
+    -93.2922715
+  ],
+  "Glendale, California, San Bernardino": [
+    34.49763625560737,
+    -117.37803245328865
+  ],
+  "Stockton, Utah, Tooele": [
+    40.4531829,
+    -112.36104
+  ],
+  "Boston, Virginia, Halifax": [
+    36.730468599999995,
+    -78.91009604891646
+  ],
+  "Delray Beach, Florida, Palm Beach": [
+    26.4614625,
+    -80.0728201
+  ],
+  "Essex, California, San Bernardino": [
+    34.7336097,
+    -115.2449794
+  ],
+  "La Grande, Oregon, Union": [
+    45.3246068,
+    -118.0878695
+  ],
+  "Sallisaw, Oklahoma, Sequoyah": [
+    35.4587305,
+    -94.7879436
+  ],
+  "Lewes, Delaware, Sussex": [
+    38.7733961,
+    -75.1379574
+  ],
+  "Laurel, Maryland, Prince George's": [
+    39.0984317,
+    -76.8485094
+  ],
+  "Levittown, Pennsylvania, Bucks": [
+    40.15755605,
+    -74.83212877207404
+  ],
+  "Roseville, California, Placer": [
+    38.7521235,
+    -121.2880059
+  ],
+  "Dalton, Florida, Okaloosa": [
+    30.404603700000003,
+    -86.50032532635666
+  ],
+  "Atlanta, Georgia, Cobb": [
+    33.9255257,
+    -84.48163516458627
+  ],
+  "Oak Ridge, Tennessee, Anderson": [
+    36.0103562,
+    -84.2696449
+  ],
+  "Canyon, Arizona, Pinal": [
+    33.391336906685126,
+    -111.54389968468176
+  ],
+  "Minden, California, San Joaquin": [
+    37.915662638696666,
+    -121.23282551066711
+  ],
+  "Lancaster, Texas, Dallas": [
+    32.5920798,
+    -96.7561083
+  ],
+  "Darlington, Tennessee, Shelby": [
+    35.07266641561189,
+    -89.89442949547504
+  ],
+  "Muskegon, Michigan, Muskegon": [
+    43.2341813,
+    -86.2483921
+  ],
+  "Middletown, New Jersey, Monmouth": [
+    40.3898188,
+    -74.1162152
+  ],
+  "Edinburg, Texas, Hidalgo": [
+    26.3013982,
+    -98.1624501
+  ],
+  "Cleveland, Texas, Liberty": [
+    30.3414794,
+    -95.0900115
+  ],
+  "Ojai, California, Ventura": [
+    34.4480495,
+    -119.242889
+  ],
+  "Clinton, Massachusetts, Worcester": [
+    42.4212463,
+    -71.6874099
+  ],
+  "Midland, Texas, Midland": [
+    31.9973662,
+    -102.077948
+  ],
+  "Galveston, Texas, Galveston": [
+    29.3056996,
+    -94.7933252
+  ],
+  "Roswell, New Mexico, Chaves": [
+    33.3943282,
+    -104.5229518
+  ],
+  "Golden, Florida, Miami-Dade": [
+    25.7888735,
+    -80.1319935
+  ],
+  "Santa Ana, California, Orange": [
+    33.7494951,
+    -117.873221
+  ],
+  "Everett, Massachusetts, Middlesex": [
+    42.40843,
+    -71.0536625
+  ],
+  "Ashland, Oregon, Jackson": [
+    42.1972487,
+    -122.7153995
+  ],
+  "Alcoa, Tennessee, Blount": [
+    35.7847143,
+    -83.986599
+  ],
+  "Summit, Illinois, McCook": [
+    41.7938155,
+    -87.83095849820054
+  ],
+  "Hudson, Massachusetts, Middlesex": [
+    42.3913503,
+    -71.5676895
+  ],
+  "Durham, Massachusetts, Worcester": [
+    42.21769493463281,
+    -71.75846005088829
+  ],
+  "Rockville, New York, Nassau": [
+    40.6574186,
+    -73.6450664
+  ],
+  "Chester, Tennessee, Henderson": [
+    35.4392435,
+    -88.6414411
+  ],
+  "Canyon, Arizona, Coconino": [
+    36.111822819548436,
+    -111.2524201525483
+  ],
+  "York, New York, Queens": [
+    40.7135078,
+    -73.8283132
+  ],
+  "Great Falls, Montana, Cascade": [
+    47.5048851,
+    -111.29189
+  ],
+  "Saint Louis, Missouri, St. Louis": [
+    38.6283593,
+    -90.2671379
+  ],
+  "New Smyrna Beach, Florida, Volusia": [
+    29.0258132,
+    -80.9271271
+  ],
+  "Ocean City, Maryland, Worcester": [
+    38.3348728,
+    -75.0847659
+  ],
+  "Bessemer, Alabama, Jefferson": [
+    33.4017766,
+    -86.954437
+  ],
+  "Clayton, Louisiana, Concordia": [
+    31.7224548,
+    -91.5422105
+  ],
+  "Tombstone, Arizona, Cochise": [
+    31.714229,
+    -110.0652028
+  ],
+  "Brockton, Massachusetts, Plymouth": [
+    42.0834335,
+    -71.0183787
+  ],
+  "Lynchburg, Virginia, Campbell": [
+    37.322173199999995,
+    -79.20660297004885
+  ],
+  "Benton, Missouri, St. Louis": [
+    38.6186631,
+    -90.303448
+  ],
+  "Batavia, New York, Genesee": [
+    42.9980144,
+    -78.1875515
+  ],
+  "Harpers Ferry, West Virginia, Jefferson": [
+    39.323418,
+    -77.7319766
+  ],
+  "Roanoke, Virginia, Roanoke": [
+    37.2732264,
+    -79.941016
+  ],
+  "Wichita Falls, Texas, Wichita": [
+    33.9004572,
+    -98.5020777
+  ],
+  "Clearwater, Florida, Pinellas": [
+    27.9658533,
+    -82.8001026
+  ],
+  "Hoboken, New Jersey, Hudson": [
+    40.7433066,
+    -74.0323752
+  ],
+  "Lubbock, Texas, Lubbock": [
+    33.5855677,
+    -101.8470215
+  ],
+  "Fairfield, California, Solano": [
+    38.2493581,
+    -122.039966
+  ],
+  "Kingsville, Texas, Kleberg": [
+    27.5158689,
+    -97.856109
+  ],
+  "Danville, New York, Suffolk": [
+    40.859445983218954,
+    -73.34825232813897
+  ],
+  "Amarillo, California, Ventura": [
+    34.29447987467525,
+    -118.70658405883412
+  ],
+  "Cheyenne, Wyoming, Laramie": [
+    41.139981,
+    -104.820246
+  ],
+  "Morgantown, West Virginia, Monongalia": [
+    39.6296809,
+    -79.9559437
+  ],
+  "Lawton, Oklahoma, Comanche": [
+    34.6086854,
+    -98.3903305
+  ],
+  "White Plains, New York, Westchester": [
+    41.0339862,
+    -73.7629097
+  ],
+  "Martinsville, Virginia, Henry": [
+    36.6353555,
+    -79.84639533266454
+  ],
+  "Henderson, West Virginia, Mason": [
+    38.833692,
+    -82.1382
+  ],
+  "Montgomery, Alabama, Montgomery": [
+    32.37742,
+    -86.3091683
+  ],
+  "Newcastle, California, Placer": [
+    38.8740658,
+    -121.1332806
+  ],
+  "Palmyra, New Jersey, Burlington": [
+    40.0070565,
+    -75.0282271
+  ],
+  "Winston-Salem, North Carolina, Forsyth": [
+    36.0998131,
+    -80.2440518
+  ],
+  "Brooklyn, Ohio, Cuyahoga": [
+    41.439754,
+    -81.7405559
+  ],
+  "San Marcos, California, San Diego": [
+    33.1352995,
+    -117.1743395
+  ],
+  "Kahului, Hawaii, Maui": [
+    20.8747708,
+    -156.4529879461996
+  ],
+  "Norwalk, California, Los Angeles": [
+    33.9092802,
+    -118.0849169
+  ],
+  "Dalton, Missouri, Charles": [
+    38.82334360740687,
+    -90.9019141414832
+  ],
+  "Lincoln, Oregon, Lincoln": [
+    44.9291942,
+    -124.0169042
+  ],
+  "Greenville, Georgia, Meriwether": [
+    33.0287373,
+    -84.7129848
+  ],
+  "Eureka, Missouri, St. Louis": [
+    38.5150388,
+    -90.6755157
+  ],
+  "Lakewood, California, Los Angeles": [
+    33.8503463,
+    -118.117191
+  ],
+  "Thousand Oaks, California, Ventura": [
+    34.1705609,
+    -118.8375937
+  ],
+  "West Allis, Wisconsin, Milwaukee": [
+    43.0209258,
+    -88.0111172
+  ],
+  "Tarpon Springs, Florida, Pinellas": [
+    28.1470965,
+    -82.756367
+  ],
+  "Bloomington, Texas, Victoria": [
+    28.6481586,
+    -96.8933907
+  ],
+  "Northampton, Virginia, Northampton": [
+    37.0493431,
+    -76.4244302
+  ],
+  "Concord, North Carolina, Cabarrus": [
+    35.4094178,
+    -80.5800049
+  ],
+  "Oregon City, Oregon, Clackamas": [
+    45.3573429,
+    -122.606758
+  ],
+  "Providence, Louisiana, East Carroll": [
+    32.8042966,
+    -91.170109
+  ],
+  "Rockford, Illinois, Winnebago": [
+    42.2713945,
+    -89.093966
+  ],
+  "Morristown, Arizona, Maricopa": [
+    33.8550559,
+    -112.6134132
+  ],
+  "Mamaroneck, New York, Westchester": [
+    40.9487314,
+    -73.7331416
+  ],
+  "Albert Lea, Minnesota, Freeborn": [
+    43.6480127,
+    -93.3682656
+  ],
+  "San Clemente, California, Orange": [
+    33.4270275,
+    -117.6124179
+  ],
+  "San Clemente, California, San Diego": [
+    32.8453256,
+    -117.2025352
+  ],
+  "Anderson, South Carolina, Anderson": [
+    34.5068601,
+    -82.6506264
+  ],
+  "Magnolia, Arkansas, Columbia": [
+    33.2670725,
+    -93.2393341
+  ],
+  "Palmdale, Florida, Glades": [
+    26.9453358,
+    -81.3161838
+  ],
+  "Charlestown, West Virginia, Jefferson": [
+    39.3947469,
+    -77.8958129
+  ],
+  "Freeport, New York, Nassau": [
+    40.6576071,
+    -73.5835826
+  ],
+  "Mount Pleasant, South Carolina, Charleston": [
+    32.7940651,
+    -79.8625851
+  ],
+  "Worthington, Florida, Union": [
+    29.9294072,
+    -82.4234469
+  ],
+  "Woodland, Washington, Cowlitz": [
+    45.9018496,
+    -122.7459664
+  ],
+  "Bethesda-Chevy Chase, Maryland, Montgomery": [
+    38.9812725,
+    -77.1233587
+  ],
+  "Fulton, Arkansas, Hempstead": [
+    33.6127101,
+    -93.8132662
+  ],
+  "Princeton, West Virginia, Mercer": [
+    37.366328,
+    -81.1026607
+  ],
+  "Albany, Kentucky, Clinton": [
+    36.6917878,
+    -85.1353856
+  ],
+  "Sterling, New York, Cayuga": [
+    43.325901,
+    -76.644949
+  ],
+  "Bloomington, California, San Bernardino": [
+    34.0701151,
+    -117.395582
+  ],
+  "Kearney, Missouri, Clay": [
+    39.3731886,
+    -94.3621376
+  ],
+  "Milwaukee, Wisconsin, Milwaukee": [
+    43.0775181,
+    -87.8812647
+  ],
+  "Pennsylvania, Florida, Broward": [
+    26.1125503,
+    -80.197758
+  ],
+  "Elkins, Pennsylvania, Allegheny": [
+    40.4487795,
+    -80.0640157
+  ],
+  "Chandler, Oklahoma, Lincoln": [
+    35.7032002,
+    -96.880011
+  ],
+  "East Cleveland, Ohio, Cuyahoga": [
+    41.5331066,
+    -81.5790137
+  ],
+  "College Park, Maryland, Prince George's": [
+    38.980666,
+    -76.9369189
+  ],
+  "Bedford, Massachusetts, Bristol": [
+    41.6362152,
+    -70.934205
+  ],
+  "Canyon, Arizona, Cochise": [
+    33.5805427,
+    -111.8527725
+  ],
+  "Hamilton, New Jersey, Mercer": [
+    40.2552939,
+    -74.7038183
+  ],
+  "Windsor, New York, Orange": [
+    40.7407129,
+    -73.748785
+  ],
+  "Kingston, New York, Custer": [
+    41.5776877,
+    -74.4875468
+  ],
+  "Wilmington, North Carolina, Harnett": [
+    34.2471258,
+    -77.9433703
+  ],
+  "Brooklyn, Maryland, Anne Arundel": [
+    39.2198688,
+    -76.6192061
+  ],
+  "Irvington, New York, Westchester": [
+    41.0398662,
+    -73.872717
+  ],
+  "Summit, California, Riverside": [
+    33.5989993,
+    -115.5338611
+  ],
+  "Huntsville, Minnesota, Dakota": [
+    44.6476712,
+    -93.2489763
+  ],
+  "Bedford, New York, Suffolk": [
+    40.8954671,
+    -73.0567324
+  ],
+  "Florence, Arizona, Pinal": [
+    33.0314508,
+    -111.387343
+  ],
+  "Lockport, New York, Niagara": [
+    43.1687104,
+    -78.696567
+  ],
+  "Rutherford, New Jersey, Bergen": [
+    40.826489,
+    -74.1068091
+  ],
+  "Bastrop, Texas, Bastrop": [
+    30.1104947,
+    -97.3152701
+  ],
+  "Ocala, California, Los Angeles": [
+    34.031351,
+    -117.942128
+  ],
+  "Jonesboro, Georgia, Clayton": [
+    33.5215013,
+    -84.3538128
+  ],
+  "Defiance, Ohio, Defiance": [
+    41.2844933,
+    -84.3557802
+  ],
+  "Hopkinsville, Kentucky, Christian": [
+    36.8657651,
+    -87.4889532
+  ],
+  "Kilgore, Texas, Gregg": [
+    32.3867228,
+    -94.8756175
+  ],
+  "Shiprock, New Mexico, San Juan": [
+    36.79196,
+    -108.6997609
+  ],
+  "Oregon, Ohio, Lucas": [
+    41.6436603,
+    -83.4868768
+  ],
+  "Brookline, Massachusetts, Middlesex": [
+    42.3307927,
+    -71.1558278
+  ],
+  "Huntington, New York, Suffolk": [
+    40.868154,
+    -73.425676
+  ],
+  "Visalia, California, Tulare": [
+    36.3302284,
+    -119.292058
+  ],
+  "Turlock, California, Stanislaus": [
+    37.4946568,
+    -120.8465941
+  ],
+  "Sherman, California, Fresno": [
+    36.2021799,
+    -120.5615507
+  ],
+  "Zion, Arizona, Mohave": [
+    36.7961307,
+    -114.0005512
+  ],
+  "Salinas, California, Monterey": [
+    36.6744117,
+    -121.655037
+  ],
+  "Kingston, Idaho, Shoshone": [
+    47.5490859,
+    -116.2707246
+  ],
+  "Oshkosh, Wisconsin, Winnebago": [
+    44.0206919,
+    -88.5408574
+  ],
+  "Salina, California, Los Angeles": [
+    33.910707,
+    -117.9908696
+  ],
+  "Jacksonville, North Carolina, Onslow": [
+    34.7494749,
+    -77.4208221
+  ],
+  "Quincy, Illinois, Adams": [
+    39.9356016,
+    -91.4098727
+  ],
+  "Clinton, Arkansas, Van Buren": [
+    35.5928879,
+    -92.4573348
+  ],
+  "Costa Mesa, California, Orange": [
+    33.6633386,
+    -117.903317
+  ],
+  "Martinsville, Indiana, Morgan": [
+    39.4278253,
+    -86.428328
+  ],
+  "Petersburg, Florida, Pinellas": [
+    27.7700475,
+    -82.6359078
+  ],
+  "Peoria, Arizona, Maricopa": [
+    33.5806115,
+    -112.237294
+  ],
+  "Asbury Park, New Jersey, Monmouth": [
+    40.2203907,
+    -74.0120817
+  ],
+  "Amarillo, Texas, Potter": [
+    35.20729,
+    -101.8371192
+  ],
+  "Lowell, New Jersey, Monmouth": [
+    40.257633,
+    -74.2444524
+  ],
+  "Morgan City, Louisiana, St. Mary": [
+    29.6993748,
+    -91.20677
+  ],
+  "Monterey, California, Monterey": [
+    36.600256,
+    -121.8946388
+  ],
+  "Madison, Indiana, Jefferson": [
+    38.7358933,
+    -85.3799577
+  ],
+  "Marinette, Wisconsin, Marinette": [
+    45.0999594,
+    -87.6307265
+  ],
+  "Manassas, Virginia, Prince William": [
+    38.7515726,
+    -77.4766631
+  ],
+  "Chapel Hill, North Carolina, Orange": [
+    35.9131542,
+    -79.05578
+  ],
+  "Boulder, Colorado, Boulder": [
+    40.0149856,
+    -105.270545
+  ],
+  "Kaneohe, Hawaii, Honolulu": [
+    21.4055,
+    -157.7960716
+  ],
+  "Litchfield, Illinois, Montgomery": [
+    39.1768621,
+    -89.655615
+  ],
+  "Takoma Park, Maryland, Prince George's": [
+    38.9677653,
+    -77.0016021
+  ],
+  "Hillsboro, Oregon, Washington": [
+    45.5228939,
+    -122.989827
+  ],
+  "Houston, Alaska, Matanuska-Susitna": [
+    61.6302778,
+    -149.818055
+  ],
+  "Scranton, Ohio, Stark": [
+    40.9186403,
+    -81.1091182
+  ]
+}

@@ -251,7 +251,7 @@ class MainApp(tk.Tk):
 
         # Load correlation matrix image
         try:
-            image_path = "In-Progress/SeniorProjects/Visuals/correlation_matrix.png"
+            image_path = "C:/Users/pshaf/OneDrive/Documents/GitHub/Class-Programs/CISS451/Visuals/correlation_matrix.png"
             image = Image.open(image_path)
             
             # Resize image to fit window while maintaining aspect ratio
@@ -284,7 +284,7 @@ class MainApp(tk.Tk):
         top_frame = ttk.Frame(tab)
         top_frame.pack(side="top", fill="x", pady=10)
 
-        full_map_path = "In-Progress\SeniorProjects\Visuals\geocoded_map.html" 
+        full_map_path = "C:/Users/pshaf/OneDrive/Documents/GitHub/Class-Programs/CISS451/Visuals/geocoded_map.html" 
         open_button = self.create_standard_button(top_frame, "Open Full Map in Browser", 
                                                 lambda: webbrowser.open(full_map_path))
         open_button.pack(pady=5)
@@ -295,7 +295,7 @@ class MainApp(tk.Tk):
 
         # Load map preview image
         try:
-            image_path = "In-Progress/SeniorProjects/Visuals/geocoded_map_preview.png" 
+            image_path = "C:/Users/pshaf/OneDrive/Documents/GitHub/Class-Programs/CISS451/Visuals/geocoded_map_preview.png" 
             image = Image.open(image_path)
             
             # Resize image to fit window while maintaining aspect ratio
@@ -330,7 +330,7 @@ class MainApp(tk.Tk):
 
         # Load scatterplot image
         try:
-            image_path = "In-Progress/SeniorProjects/Visuals/Clusters.png"  
+            image_path = "C:/Users/pshaf/OneDrive/Documents/GitHub/Class-Programs/CISS451/Visuals/Clusters.png"  
             image = Image.open(image_path)
             
             # Resize image to fit window while maintaining aspect ratio

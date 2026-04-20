@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/pshaf/OneDrive/Documents/GitHub/Class-Programs/CISS456/Lab04",
-      "program": "c:/Users/pshaf/OneDrive/Documents/GitHub/Class-Programs/CISS456/Lab04/build/Debug/outDebug",
+      "cwd": "c:/Users/pshaf/OneDrive/Documents/GitHub/Class-Programs/CISS456/Lab06",
+      "program": "c:/Users/pshaf/OneDrive/Documents/GitHub/Class-Programs/CISS456/Lab06/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
